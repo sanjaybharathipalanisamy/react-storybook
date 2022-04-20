@@ -1,0 +1,16 @@
+.input-component{
+    height: 40px;
+    border: 1px solid gray;
+    background-color: transparent;
+    padding: 0 1rem;
+
+    &.small{
+        width: 100px;
+    }
+    &.medium{
+        width: 200px;
+    }
+    &.large{
+        width: 300px;
+    }
+}
